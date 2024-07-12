@@ -36,7 +36,7 @@
 #include "bsp_init.h"
 
 #define DEVICE_NAME             "Anycubic Kobra 2"
-#define FIRMWARE_VER            "Kobra 2 V3.0.6"
+#define FIRMWARE_VER            "Kobra 2 K1.0 (3.0.6)"
 #define BUILD_VOLUME            "220*220*250 (mm)"
 #define TECH_SUPPORT            "https://www.anycubic.com"
 #define DWIN_UI_VERSION         "Anycubic_20230717"
